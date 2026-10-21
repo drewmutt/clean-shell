@@ -2,6 +2,8 @@
 
 A minimal [oh-my-zsh](https://ohmyz.sh) theme (based on `af-magic`): just the current directory and a `»` prompt, with a blank line between commands. No git info, no right-side user@host.
 
+![clean-shell preview](preview.svg)
+
 ```sh
 curl -fsSL https://raw.githubusercontent.com/drewmutt/clean-shell/main/install.sh | bash
 ```
