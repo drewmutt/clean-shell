@@ -1,4 +1,4 @@
-# af-magic-simple.zsh-theme
+# clean-shell.zsh-theme
 # Based on af-magic, with the dashed separator replaced by a blank line,
 # git info removed, and the right-side user@host removed.
 
